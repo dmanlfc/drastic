@@ -1,2 +1,6 @@
-# drastic
-Drastic emulator
+# Drastic Emulator
+
+Permission was granted to redistribute the Drastic emulator binary by its ceator, Exophase, in the following forum thread:
+
+Original: https://www.drastic-ds.com/viewtopic.php?f=5&t=4307
+Archive: https://web.archive.org/web/20210123233250/https://www.drastic-ds.com/viewtopic.php?f=5&t=4307
